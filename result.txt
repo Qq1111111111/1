@@ -1,0 +1,548 @@
+[*] LiveTop 10.10.0.0/16     段存活数量为: 66
+[*] LiveTop 10.1.0.0/16      段存活数量为: 17
+[*] LiveTop 10.30.0.0/16     段存活数量为: 16
+[*] LiveTop 192.168.0.0/16   段存活数量为: 5
+[*] LiveTop 10.20.0.0/16     段存活数量为: 2
+[*] LiveTop 10.81.0.0/16     段存活数量为: 2
+[*] LiveTop 10.255.0.0/16    段存活数量为: 1
+[*] LiveTop 10.0.0.0/16      段存活数量为: 1
+[*] LiveTop 10.10.20.0/24    段存活数量为: 49
+[*] LiveTop 10.10.10.0/24    段存活数量为: 17
+[*] LiveTop 10.30.10.0/24    段存活数量为: 16
+[*] LiveTop 192.168.1.0/24   段存活数量为: 5
+[*] LiveTop 10.1.3.0/24      段存活数量为: 5
+[*] LiveTop 10.1.1.0/24      段存活数量为: 4
+[*] LiveTop 10.1.10.0/24     段存活数量为: 2
+[*] LiveTop 10.1.7.0/24      段存活数量为: 2
+[*] LiveTop 10.20.10.0/24    段存活数量为: 2
+[*] LiveTop 10.81.234.0/24   段存活数量为: 2
+10.1.8.3:135 open
+10.30.10.1:22 open
+10.1.1.51:80 open
+10.1.2.20:135 open
+10.81.234.129:22 open
+10.81.234.1:22 open
+10.1.3.48:135 open
+10.1.3.2:80 open
+10.0.1.1:22 open
+10.1.3.93:80 open
+192.168.1.225:21 open
+10.20.10.1:22 open
+10.10.20.1:22 open
+10.1.7.116:135 open
+10.1.3.48:80 open
+10.1.2.20:80 open
+10.255.0.1:22 open
+192.168.1.155:22 open
+10.1.1.253:22 open
+192.168.1.203:21 open
+10.10.10.1:22 open
+10.1.8.3:21 open
+192.168.1.204:21 open
+192.168.1.1:21 open
+10.1.1.2:21 open
+10.1.2.20:21 open
+10.1.1.2:80 open
+10.10.10.252:21 open
+10.1.10.19:135 open
+10.1.7.254:22 open
+10.1.2.20:139 open
+10.1.8.254:22 open
+10.1.3.2:139 open
+10.10.20.115:80 open
+10.10.20.113:80 open
+10.10.20.105:80 open
+10.1.10.254:22 open
+10.10.20.3:22 open
+10.30.10.7:22 open
+10.1.3.254:22 open
+10.1.3.48:139 open
+10.1.1.2:139 open
+10.1.3.254:80 open
+10.10.10.6:80 open
+10.10.10.4:80 open
+10.10.10.5:80 open
+10.10.10.252:80 open
+10.10.20.146:80 open
+10.10.20.3:80 open
+10.10.10.4:22 open
+10.1.2.254:80 open
+10.10.10.252:139 open
+10.10.20.6:80 open
+10.10.10.117:139 open
+10.1.7.254:80 open
+10.30.10.4:80 open
+10.20.10.2:80 open
+10.30.10.5:80 open
+10.1.2.254:22 open
+10.1.7.116:139 open
+10.30.10.3:135 open
+10.30.10.7:80 open
+10.1.8.3:139 open
+10.1.8.254:80 open
+10.30.10.32:80 open
+10.1.1.254:22 open
+10.30.10.61:135 open
+10.30.10.10:135 open
+10.1.10.254:80 open
+10.1.1.254:80 open
+10.10.20.23:80 open
+10.10.20.8:80 open
+10.10.20.7:80 open
+10.10.20.4:80 open
+10.10.20.137:135 open
+10.30.10.12:135 open
+10.10.20.193:135 open
+10.10.20.219:135 open
+10.10.20.232:135 open
+10.10.20.6:81 open
+10.10.20.142:80 open
+10.10.20.50:135 open
+10.10.20.199:135 open
+10.10.20.136:80 open
+10.10.20.106:80 open
+10.10.20.10:80 open
+10.10.20.145:80 open
+10.10.20.159:80 open
+10.10.20.100:139 open
+10.10.20.5:80 open
+10.10.20.11:80 open
+10.30.10.63:135 open
+10.10.20.4:81 open
+10.10.20.46:139 open
+10.10.20.142:139 open
+10.10.20.107:80 open
+10.10.20.108:80 open
+10.10.20.196:80 open
+10.10.20.100:135 open
+10.10.20.23:139 open
+10.30.10.8:135 open
+10.10.20.137:139 open
+10.10.20.116:80 open
+10.10.20.46:135 open
+10.10.20.193:139 open
+10.10.10.117:135 open
+10.10.20.162:135 open
+10.10.20.127:80 open
+10.10.20.162:139 open
+10.10.20.11:139 open
+10.10.20.50:139 open
+10.10.20.120:80 open
+10.10.20.232:139 open
+10.30.10.12:139 open
+10.30.10.63:139 open
+10.30.10.61:139 open
+10.30.10.3:139 open
+10.30.10.4:139 open
+10.1.2.20:443 open
+10.0.1.1:443 open
+10.1.3.48:443 open
+10.1.3.2:443 open
+10.1.1.2:443 open
+10.1.3.93:443 open
+10.1.1.253:443 open
+10.1.8.3:443 open
+10.10.10.5:443 open
+10.10.20.1:443 open
+10.20.10.1:443 open
+10.10.10.252:443 open
+10.30.10.1:443 open
+10.81.234.1:443 open
+10.81.234.129:443 open
+10.10.10.1:443 open
+10.255.0.1:443 open
+10.10.10.6:443 open
+10.10.10.4:443 open
+10.1.2.254:443 open
+10.10.20.10:443 open
+10.10.20.7:443 open
+10.10.20.23:443 open
+10.10.20.8:443 open
+10.10.20.192:135 open
+192.168.1.155:443 open
+192.168.1.1:443 open
+10.30.10.5:443 open
+10.10.20.146:443 open
+10.1.3.254:443 open
+10.10.20.11:443 open
+10.10.20.142:443 open
+10.1.1.254:443 open
+10.1.7.254:443 open
+10.10.20.127:443 open
+10.1.8.254:443 open
+10.1.10.254:443 open
+10.30.10.32:443 open
+10.30.10.4:443 open
+10.10.20.120:443 open
+10.10.20.196:443 open
+10.1.2.20:445 open
+10.1.3.48:445 open
+10.1.3.2:445 open
+10.1.1.2:445 open
+10.1.7.116:445 open
+10.1.8.3:445 open
+10.1.10.19:445 open
+10.10.10.252:445 open
+10.10.10.117:445 open
+10.10.20.50:445 open
+10.1.3.48:1433 open
+10.10.20.100:445 open
+10.30.10.4:445 open
+10.30.10.12:445 open
+10.30.10.8:445 open
+10.30.10.3:445 open
+10.30.10.10:445 open
+10.30.10.63:445 open
+10.30.10.61:445 open
+10.10.20.232:445 open
+10.10.20.219:445 open
+10.10.20.199:445 open
+10.10.20.193:445 open
+10.10.20.137:445 open
+10.10.20.142:445 open
+10.10.20.23:445 open
+10.10.20.162:445 open
+10.10.20.11:445 open
+10.10.20.46:445 open
+10.10.20.192:445 open
+10.1.2.20:3306 open
+10.1.3.48:3306 open
+10.1.8.3:5432 open
+10.1.2.20:8000 open
+10.10.20.5:8000 open
+10.10.10.98:8080 open
+10.10.20.8:8080 open
+10.10.20.11:8080 open
+10.10.20.127:8080 open
+10.1.2.20:9000 open
+10.1.2.20:11211 open
+10.10.20.4:85 open
+10.10.20.6:85 open
+10.1.8.3:88 open
+10.0.1.1:3128 open
+10.1.1.253:3128 open
+10.10.10.1:3128 open
+10.10.20.1:3128 open
+10.20.10.1:3128 open
+10.30.10.1:3128 open
+10.81.234.1:3128 open
+10.81.234.129:3128 open
+10.255.0.1:3128 open
+192.168.1.155:3128 open
+10.1.2.20:7000 open
+10.1.8.3:7070 open
+10.30.10.61:7070 open
+10.1.3.48:7680 open
+10.1.10.19:7680 open
+10.10.10.117:7680 open
+10.10.20.50:7680 open
+10.10.20.100:7680 open
+10.10.20.137:7680 open
+10.10.20.193:7680 open
+10.10.20.219:7680 open
+10.10.20.232:7680 open
+10.30.10.12:7680 open
+10.30.10.8:7680 open
+10.30.10.63:7680 open
+10.30.10.10:7680 open
+10.30.10.61:7680 open
+10.10.20.46:7680 open
+10.10.10.98:8001 open
+10.10.10.98:8002 open
+10.10.20.113:8086 open
+10.10.20.107:8086 open
+10.10.20.106:8086 open
+10.10.20.108:8086 open
+10.10.20.105:8086 open
+10.10.20.136:8086 open
+10.10.20.145:8086 open
+10.10.20.115:8086 open
+10.10.20.116:8086 open
+10.10.20.10:8088 open
+10.0.1.1:8090 open
+10.1.1.253:8090 open
+10.10.10.1:8090 open
+10.10.20.1:8090 open
+10.20.10.1:8090 open
+10.30.10.1:8090 open
+10.81.234.1:8090 open
+10.81.234.129:8090 open
+10.255.0.1:8090 open
+192.168.1.155:8090 open
+10.0.1.1:8443 open
+10.1.1.253:8443 open
+10.10.10.1:8443 open
+10.10.20.1:8443 open
+10.20.10.1:8443 open
+10.30.10.1:8443 open
+10.81.234.1:8443 open
+10.81.234.129:8443 open
+10.255.0.1:8443 open
+192.168.1.155:8443 open
+10.10.20.5:9010 open
+10.1.3.2:9100 open
+10.1.3.93:9100 open
+10.10.20.23:9100 open
+10.10.20.8:9100 open
+10.30.10.5:9100 open
+10.10.20.11:9100 open
+10.30.10.4:9100 open
+10.10.20.127:9100 open
+10.30.10.32:9100 open
+10.10.20.142:9100 open
+10.10.20.196:9100 open
+10.10.20.120:9100 open
+10.10.10.98:9999 open
+10.10.10.6:10000 open
+10.10.10.5:10000 open
+10.10.20.7:10000 open
+10.10.20.146:10000 open
+[*] NetInfo 
+[*]10.1.3.48
+   [->]JOVAN-NEYPES
+   [->]10.1.3.48
+[*] NetInfo 
+[*]10.1.8.3
+   [->]R1-SERVER2
+   [->]192.168.15.5
+   [->]169.254.229.201
+   [->]10.1.8.3
+   [->]10.1.1.206
+[*] NetInfo 
+[*]10.1.7.116
+   [->]DESKTOP-S2B14JT
+   [->]10.1.7.116
+[*] NetBios 10.1.2.20       R1-SERVER.region1.nia.gov.ph        �Windows Server 2012 R2 Standard 9600
+[*] WebTitle http://10.1.3.93          code:301 len:0      title:None 跳转url: http://10.1.3.93/general/status.html
+[*] WebTitle http://10.1.1.2           code:200 len:544    title:None
+[*] WebTitle http://10.1.2.20:7000     code:301 len:333    title:301 Moved Permanently 跳转url: https://r1systems.nia.gov.ph:8445/
+[*] OsInfo 10.1.8.3	(Windows Server 2012 R2 Standard 9600)
+[*] WebTitle http://10.1.1.51          code:200 len:2483   title:""
+[*] NetBios 10.1.1.2        WORKGROUP\NIA_R1_NAS          
+[+] ftp 10.1.2.20:21:anonymous 
+   [->]aspnet_client
+   [->]Database
+   [->]VM
+[*] WebTitle https://10.1.1.2          code:200 len:544    title:None
+[*] WebTitle http://10.81.234.129:3128 code:400 len:0      title:None
+[*] WebTitle http://10.255.0.1:3128    code:400 len:0      title:None
+[+] Memcached 10.1.2.20:11211 unauthorized
+[*] WebTitle http://10.1.2.20          code:401 len:0      title:None
+[+] Postgres:10.1.8.3:5432:postgres 123456
+[*] WebTitle http://10.0.1.1:3128      code:400 len:0      title:None
+[*] WebTitle http://10.20.10.1:3128    code:400 len:0      title:None
+[*] WebTitle http://10.1.3.48          code:302 len:0      title:None 跳转url: http://10.1.3.48/dashboard/
+[*] WebTitle https://10.1.3.48         code:302 len:0      title:None 跳转url: https://10.1.3.48/dashboard/
+[*] NetInfo 
+[*]10.1.10.19
+   [->]NIA-AS-Celine
+   [->]10.1.10.19
+[*] WebTitle http://192.168.1.155:3128 code:400 len:0      title:None
+[*] WebTitle http://10.1.1.253:3128    code:400 len:0      title:None
+[*] WebTitle http://10.10.10.1:3128    code:400 len:0      title:None
+[*] WebTitle https://10.1.2.20         code:401 len:0      title:None
+[*] WebTitle http://10.1.3.48/dashboard/ code:200 len:7577   title:Welcome to XAMPP
+[*] WebTitle https://10.1.3.48/dashboard/ code:200 len:7577   title:Welcome to XAMPP
+[*] WebTitle https://10.0.1.1          code:200 len:3144   title:VPN Portal
+[+] MS17-010 10.1.2.20	(Windows Server 2012 R2 Standard 9600)
+[*] OsInfo 10.1.3.2	(EPSON Storage Server)
+[*] WebTitle http://10.1.3.2           code:307 len:0      title:None 跳转url: https://10.1.3.2/
+[*] WebTitle https://10.10.10.252      code:200 len:544    title:None
+[*] WebTitle http://10.10.10.5         code:200 len:10766  title:Login
+[*] WebTitle https://10.1.1.253:8090   code:200 len:27911  title:None
+[*] WebTitle https://10.10.10.1        code:200 len:3144   title:VPN Portal
+[*] WebTitle http://10.1.10.254        code:302 len:265    title:None 跳转url: http://10.1.10.254/cs22762831/
+[*] WebTitle https://10.81.234.1       code:200 len:3144   title:VPN Portal
+[*] WebTitle https://10.1.1.253        code:200 len:3144   title:VPN Portal
+[*] WebTitle https://10.10.20.1        code:200 len:3144   title:VPN Portal
+[*] WebTitle https://10.255.0.1        code:200 len:3144   title:VPN Portal
+[*] WebTitle https://10.30.10.1        code:200 len:3144   title:VPN Portal
+[*] WebTitle https://192.168.1.155     code:200 len:3144   title:VPN Portal
+[*] WebTitle https://10.1.8.3          code:302 len:0      title:None 跳转url: https://10.1.8.3/dashboard/
+[*] WebTitle http://10.1.1.254         code:302 len:264    title:None 跳转url: http://10.1.1.254/cs22762831/
+[*] WebTitle https://10.81.234.129     code:200 len:3144   title:VPN Portal
+[*] WebTitle http://10.10.20.1:3128    code:400 len:0      title:None
+[*] WebTitle https://10.20.10.1        code:200 len:3144   title:VPN Portal
+[*] WebTitle http://10.30.10.1:3128    code:400 len:0      title:None
+[*] WebTitle http://10.81.234.1:3128   code:400 len:0      title:None
+[*] NetInfo 
+[*]10.30.10.63
+   [->]DESKTOP-MH0NLOS
+   [->]10.30.10.63
+[*] WebTitle http://10.10.20.6         code:200 len:648    title:""
+[*] WebTitle https://10.1.8.3/dashboard/ code:200 len:7577   title:Welcome to XAMPP
+[*] WebTitle http://10.10.20.10        code:302 len:114    title:302 Found 跳转url: https://10.10.20.10:443/
+[*] WebTitle http://10.1.3.93/general/status.html code:200 len:4336   title:Brother MFC-T4500DW
+[*] WebTitle https://10.1.3.93         code:301 len:0      title:None 跳转url: https://10.1.3.93/general/status.html
+[*] WebTitle http://10.1.2.254         code:302 len:264    title:None 跳转url: http://10.1.2.254/cs22762831/
+[*] WebTitle https://10.30.10.1:8090   code:200 len:27911  title:None
+[+] mysql 10.1.2.20:3306:root 
+[*] WebTitle https://10.20.10.1:8090   code:200 len:27911  title:None
+[*] NetInfo 
+[*]10.10.20.232
+   [->]NIA-RM-Annie
+   [->]10.10.20.232
+[*] WebTitle https://10.10.10.1:8090   code:200 len:27911  title:None
+[*] WebTitle https://10.10.20.1:8090   code:200 len:27911  title:None
+[*] WebTitle https://10.0.1.1:8090     code:200 len:27911  title:None
+[*] NetInfo 
+[*]10.10.20.193
+   [->]NIA-OS-Mona
+   [->]10.10.20.193
+[*] NetInfo 
+[*]10.10.20.137
+   [->]NIA-OS-Michelle
+   [->]10.10.20.137
+[*] NetInfo 
+[*]10.10.20.162
+   [->]NIA-PDS-TRICIA
+   [->]10.10.20.162
+[*] NetInfo 
+[*]10.30.10.12
+   [->]AS-JEANNE
+   [->]10.30.10.12
+[*] NetBios 10.10.20.193    WORKGROUP\NIA-OS-MONA         
+[*] NetBios 10.10.20.100    WORKGROUP\NIA-EMS-DANIEL      
+[*] NetInfo 
+[*]10.10.20.46
+   [->]KAMATOY-2025
+   [->]10.10.20.46
+[*] WebTitle http://10.10.20.142       code:307 len:0      title:None 跳转url: https://10.10.20.142/
+[*] NetBios 10.10.20.142    WORKGROUP\EPSON7C508C               EPSON Storage Server
+[*] WebTitle https://10.1.2.254        code:302 len:265    title:None 跳转url: https://10.1.2.254/cs22762831/
+[*] WebTitle http://10.10.20.107       code:200 len:37831  title:""
+[*] WebTitle http://10.10.20.116       code:200 len:37831  title:""
+[*] WebTitle http://10.10.20.113       code:200 len:37831  title:""
+[*] WebTitle http://10.1.7.254         code:302 len:264    title:None 跳转url: http://10.1.7.254/cs22762831/
+[*] WebTitle http://10.10.20.5         code:200 len:480    title:""
+[*] NetBios 10.10.10.117    WORKGROUP\DESKTOP-85TTHG6     
+[*] WebTitle http://10.30.10.4         code:200 len:948    title:None
+[*] WebTitle http://10.10.20.120       code:301 len:0      title:None 跳转url: http://10.10.20.120/general/status.html
+[*] NetInfo 
+[*]10.30.10.61
+   [->]NIA-LGL-Mylene
+   [->]10.20.10.11
+   [->]10.30.10.61
+[*] WebTitle https://10.10.20.196      code:301 len:0      title:None 跳转url: https://10.10.20.196/home/status.html
+[*] WebTitle http://10.10.10.252       code:200 len:544    title:None
+[*] NetBios 10.30.10.61     WORKGROUP\NIA-LGL-MYLENE      
+[*] NetBios 10.10.20.162    WORKGROUP\NIA-PDS-TRICIA      
+[*] NetBios 10.10.10.252    WORKGROUP\NIA_R1_NAS          
+[*] OsInfo 10.30.10.4	(EPSON Storage Server)
+[*] WebTitle http://10.10.20.159       code:200 len:2483   title:""
+[*] NetBios 10.30.10.3      WORKGROUP\NIA-AS-YABUT        
+[*] NetInfo 
+[*]10.10.20.100
+   [->]NIA-EMS-Daniel
+   [->]10.10.20.100
+[*] WebTitle http://10.20.10.2         code:200 len:3051   title:WEB SERVICE
+[*] WebTitle http://10.10.20.4         code:200 len:648    title:""
+[*] WebTitle https://10.10.10.4        code:200 len:2074   title:Loading...
+[*] WebTitle http://10.10.20.4:81      code:500 len:2314   title:None
+[*] WebTitle https://10.10.20.127      code:200 len:1457   title:None
+[*] WebTitle https://10.1.3.2          code:200 len:947    title:None
+[*] WebTitle http://10.10.20.196       code:301 len:0      title:None 跳转url: http://10.10.20.196/home/status.html
+[*] WebTitle http://10.10.20.23        code:307 len:0      title:None 跳转url: https://10.10.20.23/
+[*] WebTitle http://10.30.10.7         code:200 len:2417   title:Opening...
+[*] NetInfo 
+[*]10.30.10.3
+   [->]NIA-AS-Yabut
+   [->]10.30.10.3
+[*] NetInfo 
+[*]10.10.20.50
+   [->]DESKTOP-935PTCI
+   [->]10.10.20.50
+[*] NetInfo 
+[*]10.10.10.117
+   [->]DESKTOP-85TTHG6
+   [->]10.10.10.117
+[*] WebTitle http://10.10.10.4         code:200 len:2074   title:Loading...
+[*] WebTitle https://10.1.3.93/general/status.html code:200 len:4336   title:Brother MFC-T4500DW
+[*] NetBios 10.30.10.12     WORKGROUP\AS-JEANNE           
+[*] NetBios 10.10.20.232    WORKGROUP\NIA-RM-ANNIE        
+[*] WebTitle http://10.10.20.7         code:200 len:10766  title:Login
+[*] NetInfo 
+[*]10.30.10.10
+   [->]AS-EMEE
+   [->]10.30.10.10
+[*] WebTitle http://10.10.20.3         code:200 len:7765   title:TL-WR940N
+[*] WebTitle http://10.30.10.5         code:301 len:0      title:None 跳转url: http://10.30.10.5/general/status.html
+[*] NetInfo 
+[*]10.30.10.8
+   [->]MARJ-RIM-PC
+   [->]10.30.10.8
+[*] WebTitle https://10.1.3.2/         code:200 len:947    title:None
+[*] WebTitle http://10.10.10.6         code:200 len:10766  title:Login
+[*] WebTitle http://10.1.3.254         code:302 len:264    title:None 跳转url: http://10.1.3.254/cs22762831/
+[*] WebTitle https://10.1.1.254        code:302 len:265    title:None 跳转url: https://10.1.1.254/cs22762831/
+[*] NetInfo 
+[*]10.10.20.199
+   [->]NIA-PDS-DIANE
+   [->]10.10.20.199
+[*] NetInfo 
+[*]10.10.20.219
+   [->]NIA-OS-Mitch
+   [->]10.10.20.219
+[*] NetBios 10.10.20.50     WORKGROUP\DESKTOP-935PTCI     
+[*] NetBios 10.10.20.137    WORKGROUP\NIA-OS-MICHELLE     
+[*] WebTitle https://10.10.20.10       code:200 len:3441   title:WEB SERVICE
+[*] WebTitle https://10.10.10.6        code:200 len:10766  title:Login
+[*] WebTitle http://10.10.20.11        code:200 len:1488   title:None
+[*] WebTitle https://10.10.20.146      code:200 len:10766  title:Login
+[*] WebTitle http://10.10.20.6:81      code:500 len:2314   title:None
+[*] WebTitle http://10.10.20.106       code:200 len:37831  title:""
+[*] WebTitle https://10.10.20.10:443/  code:200 len:3441   title:WEB SERVICE
+[*] NetBios 10.10.20.46     WORKGROUP\KAMATOY-2025        
+[*] WebTitle http://10.10.20.146       code:200 len:10766  title:Login
+[*] NetBios 10.30.10.4      WORKGROUP\EPSONFBC955MES            EPSON Storage Server
+[*] WebTitle http://10.10.20.8         code:200 len:1457   title:None
+[*] NetInfo 
+[*]10.10.20.192
+   [->]NIA-EMS-Marv
+   [->]10.10.20.192
+[*] WebTitle http://10.10.20.127       code:200 len:1457   title:None
+[*] WebTitle https://10.10.20.7        code:200 len:10766  title:Login
+[*] WebTitle https://10.10.10.5        code:200 len:10766  title:Login
+[*] WebTitle http://10.10.20.115       code:200 len:37831  title:""
+[*] WebTitle http://10.30.10.32        code:301 len:0      title:None 跳转url: http://10.30.10.32/home/status.html
+[*] OsInfo 10.10.20.142	(EPSON Storage Server)
+[*] WebTitle http://10.10.20.108       code:200 len:37831  title:""
+[*] WebTitle http://10.10.20.105       code:200 len:37831  title:""
+[*] WebTitle http://10.10.20.136       code:200 len:37831  title:""
+[*] WebTitle http://10.1.8.254         code:302 len:264    title:None 跳转url: http://10.1.8.254/cs22762831/
+[*] WebTitle https://10.30.10.4        code:200 len:948    title:None
+[*] WebTitle http://10.10.20.145       code:200 len:37831  title:""
+[*] WebTitle https://10.30.10.5        code:301 len:0      title:None 跳转url: https://10.30.10.5/general/status.html
+[*] WebTitle https://10.10.20.8        code:200 len:1457   title:None
+[*] WebTitle http://10.30.10.5/general/status.html code:200 len:4336   title:Brother MFC-T4500DW
+[*] WebTitle http://10.10.20.11:8080   code:200 len:1488   title:None
+[*] WebTitle https://10.1.3.254        code:302 len:265    title:None 跳转url: https://10.1.3.254/cs22762831/
+[*] NetBios 10.30.10.63     WORKGROUP\DESKTOP-MH0NLOS     
+[*] WebTitle http://10.30.10.32/home/status.html code:200 len:4438   title:Brother DCP-T420W
+[*] WebTitle https://10.30.10.32       code:301 len:0      title:None 跳转url: https://10.30.10.32/home/status.html
+[*] WebTitle http://10.10.20.196/home/status.html code:200 len:4438   title:Brother DCP-T420W
+[*] WebTitle https://10.10.20.11       code:200 len:1488   title:None
+[*] WebTitle https://10.10.20.196/home/status.html code:200 len:4438   title:Brother DCP-T420W
+[*] WebTitle https://10.10.20.142      code:200 len:947    title:None
+[*] WebTitle https://region1.nia.gov.ph code:200 len:66773  title:NIA-REGION I
+[*] WebTitle https://10.10.20.120      code:301 len:0      title:None 跳转url: https://10.10.20.120/general/status.html
+[*] WebTitle https://10.10.20.23       code:200 len:947    title:None
+[*] WebTitle http://10.10.20.120/general/status.html code:200 len:7882   title:Brother MFC-J3930DW
+[*] WebTitle https://10.10.20.142/     code:200 len:947    title:None
+[*] WebTitle https://10.1.8.254        code:302 len:265    title:None 跳转url: https://10.1.8.254/cs22762831/
+[*] WebTitle https://10.1.7.254        code:302 len:265    title:None 跳转url: https://10.1.7.254/cs22762831/
+[*] WebTitle https://10.10.20.23/      code:200 len:947    title:None
+[*] WebTitle https://10.30.10.5/general/status.html code:200 len:4336   title:Brother MFC-T4500DW
+[*] WebTitle http://10.1.2.20:9000     code:302 len:0      title:None 跳转url: http://10.1.2.20:9000/data/index/
+[*] WebTitle https://10.30.10.32/home/status.html code:200 len:4438   title:Brother DCP-T420W
+[*] WebTitle https://10.1.10.254       code:302 len:266    title:None 跳转url: https://10.1.10.254/cs22762831/
+[*] WebTitle https://10.10.20.120/general/status.html code:200 len:7882   title:Brother MFC-J3930DW
+[*] WebTitle https://192.168.1.1       code:200 len:68496  title:""
+[*] WebTitle http://10.10.10.98:8080   code:404 len:345    title:404 - Not Found
+[*] WebTitle http://10.10.20.127:8080  code:200 len:1457   title:None
+[*] WebTitle http://10.10.20.8:8080    code:200 len:1457   title:None
+[*] WebTitle http://10.1.10.254/cs22762831/config/log_off_page.htm code:200 len:41631  title:""
+[*] WebTitle http://10.1.2.20:9000/accounts/login/?next=/data/index/ code:200 len:4918   title:BioTime- Login
+[*] WebTitle http://10.1.1.254/cs22762831/config/log_off_page.htm code:200 len:41631  title:""
+[*] WebTitle http://10.1.2.254/cs22762831/config/log_off_page.htm code:200 len:41631  title:""
+[+] SSH 10.10.20.3:22:admin admin
